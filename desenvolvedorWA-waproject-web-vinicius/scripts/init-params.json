@@ -1,0 +1,11 @@
+{
+  "project": "WAVINICIUS",
+  "repository": "",
+  "endpointDev": "http://localhost:3001",
+  "endpointProd": "",
+  "dockerImage": "waproject/wavinicius",
+  "dockerCredentials": "",
+  "sentryDsn": "",
+  "confirmed": true,
+  "slug": "wavinicius"
+}
